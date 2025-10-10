@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/komenggacor/komenggacor/main/assets/banner.svg" alt="Komeng Gacor Banner" width="100%" />
+  <img src="https://github.com/komenggacor/komenggacor/blob/main/assets/banner.png?raw=true" alt="Komeng Gacor Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#16a34a;">Komeng Gacor</span></h1>
