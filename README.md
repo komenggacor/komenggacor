@@ -3,7 +3,7 @@
   <img src="https://github.com/komenggacor/komenggacor/blob/main/assets/banner.png?raw=true" alt="Komeng Gacor Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#16a34a;">Komeng Gacor</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#16a34a;">komenggacor</span></h1>
 <p align="center">
   🌱 Entrepreneur • 💹 Financial Learner • 💻 Developer
 </p>
@@ -12,7 +12,7 @@
 
 ### 🧭 About Me / Tentang Saya
 
-**Ahmad Gustya Faris Subakti**, dikenal sebagai **Komeng Gacor**, adalah seorang pengusaha muda sekaligus pembelajar serius di bidang keuangan dan investasi.  
+**Ahmad Gustya Faris Subakti**, dikenal sebagai **komenggacor**, adalah seorang pengusaha muda sekaligus pembelajar serius di bidang keuangan dan investasi.  
 Saat ini, ia tengah mengembangkan brand minuman kekinian bernama **Mimik Seeek**, sebuah bisnis yang dibangun dari nol dengan modal terbatas namun visi jangka panjang yang kuat — menjadikannya bukan sekadar minuman, tetapi *pengalaman rasa dan gaya hidup*.
 
 Di luar dunia wirausaha, Ahmad memiliki ketertarikan mendalam pada teori keuangan, investasi, dan manajemen bisnis modern. Ia memposisikan dirinya bukan hanya sebagai pelaku usaha, tetapi juga sebagai **pemikir strategis** yang ingin memahami dasar-dasar ekonomi, sistem keuangan global, dan perilaku pasar sebelum mengambil keputusan bisnis besar.
