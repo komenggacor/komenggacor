@@ -1,4 +1,4 @@
-<!-- ========================= -->
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/118b3bf9-ee41-4295-8967-4398973235a3" /><!-- ========================= -->
 
 <!--  PREMIUM GITHUB PROFILE  -->
 
@@ -68,25 +68,9 @@ Beyond operations, I spend a significant amount of time learning **financial the
 
 ## ✦ GitHub Analytics
 
-<!-- Compact Overview (as requested) -->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=komenggacor&show_icons=true&count_private=true&theme=gruvbox_light" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komenggacor&layout=compact&theme=gruvbox_light" height="180" />
-</p>
-
-<!-- Detailed Analytics -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komenggacor&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox_light" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=komenggacor&hide_border=true&theme=gruvbox_light" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komenggacor&layout=compact&langs_count=8&hide_border=true&theme=gruvbox_light" height="170" />
 </p>
 
 ---
