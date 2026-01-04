@@ -1,9 +1,12 @@
+<!-- ========================= -->
+
 <!--  PREMIUM GITHUB PROFILE  -->
 
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://github.com/komenggacor/komenggacor/blob/main/assets/banner.png?raw=true" alt="Komeng Gacor Banner" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=komenggacor&show_icons=true&count_private=true&theme=gruvbox_light&cache_seconds=86400&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komenggacor&layout=compact&theme=gruvbox_light&cache_seconds=86400&v=1" />
 </p>
 
 <h1 align="center">
