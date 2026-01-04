@@ -1,79 +1,114 @@
-<!-- PROFILE HEADER -->
+<!-- ========================= -->
+
+<!--  PREMIUM GITHUB PROFILE  -->
+
+<!-- ========================= -->
+
 <p align="center">
   <img src="https://github.com/komenggacor/komenggacor/blob/main/assets/banner.png?raw=true" alt="Komeng Gacor Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#16a34a;">komenggacor</span></h1>
+<h1 align="center">
+  Hi, I’m <span style="color:#16a34a;">Ahmad Gustya Faris Subakti</span>
+</h1>
+
 <p align="center">
-  🌱 Entrepreneur • 💹 Financial Learner • 💻 Developer
+  <b>Entrepreneur • Financial Thinker • Software Builder</b>
+</p>
+
+<p align="center">
+  I build businesses with structure, grow them with strategy, and support them with technology.
 </p>
 
 ---
 
-### 🧭 About Me / Tentang Saya
+## ✦ About Me
 
-**Ahmad Gustya Faris Subakti**, dikenal sebagai **komenggacor**, adalah seorang pengusaha muda sekaligus pembelajar serius di bidang keuangan dan investasi.  
-Saat ini, ia tengah mengembangkan brand minuman kekinian bernama **Mimik Seeek**, sebuah bisnis yang dibangun dari nol dengan modal terbatas namun visi jangka panjang yang kuat — menjadikannya bukan sekadar minuman, tetapi *pengalaman rasa dan gaya hidup*.
+I’m known online as **komenggacor** — a young entrepreneur who believes that **strong fundamentals outperform fast execution**.
 
-Di luar dunia wirausaha, Ahmad memiliki ketertarikan mendalam pada teori keuangan, investasi, dan manajemen bisnis modern. Ia memposisikan dirinya bukan hanya sebagai pelaku usaha, tetapi juga sebagai **pemikir strategis** yang ingin memahami dasar-dasar ekonomi, sistem keuangan global, dan perilaku pasar sebelum mengambil keputusan bisnis besar.
+Currently, I’m building **🧋 Mimik Seeek**, a modern beverage brand started from scratch with limited capital but a long-term vision. For me, business is not just about selling products — it’s about designing **systems, cashflow, and sustainability**.
 
-> “Success is built on understanding — not just action.”
+Beyond operations, I spend a significant amount of time learning **financial theory, investment logic, and modern business strategy**. I prefer understanding *why* something works before deciding *how* to execute it.
 
----
-
-### 💼 Featured Projects / Proyek Unggulan
-
-| 🚀 Project | Description |
-|-------------|-------------|
-| 🧋 **Mimik Seeek Bookkeeping** | Automated bookkeeping system for beverage business — making finance simple and smart. |
-| ⚙️ **AutoTasky** | Lightweight Node.js workflow automation for daily productivity. |
-| 🎨 **Komeng UI Kit** | Responsive UI library for modern landing pages and Flutter apps. |
+> *“Execution without understanding creates noise. Understanding creates leverage.”*
 
 ---
 
-### 🧠 Focus & Interests
-- 📈 Financial literacy, cashflow systems, ROI, and long-term investment strategy.  
-- 🧩 Automation & technology for small businesses.  
-- 🧠 Understanding business fundamentals before execution.  
+## ✦ What I’m Working On
+
+| Project                                 | Focus               | Value                                                   |
+| --------------------------------------- | ------------------- | ------------------------------------------------------- |
+| **🧋 Mimik Seeek – Bookkeeping System** | Finance Automation  | Turning daily transactions into clear financial insight |
+| **⚙️ AutoTasky**                        | Workflow Automation | Simplifying repetitive work with Node.js                |
+| **🎨 Komeng UI Kit**                    | UI / UX System      | Clean, responsive components for modern apps            |
 
 ---
 
-### ⚙️ Tech Stack
-`JavaScript` `TypeScript` `Dart` `Flutter` `React` `Node.js`  
-`TailwindCSS` `Firebase` `Supabase` `GitHub Actions` `Docker`
+## ✦ Core Interests
+
+* 📊 Financial literacy, cashflow modeling, ROI analysis
+* 🧠 Business fundamentals & strategic decision-making
+* ⚙️ Automation systems for small and growing businesses
+* 📈 Long-term investing mindset over short-term speculation
 
 ---
 
-### 📊 GitHub Stats
+## ✦ Technology Stack
+
+**Languages & Frameworks**
+`JavaScript` · `TypeScript` · `Dart` · `Flutter` · `React` · `Node.js`
+
+**UI & Styling**
+`Tailwind CSS`
+
+**Backend & Tools**
+`Firebase` · `Supabase` · `Docker` · `GitHub Actions`
+
+---
+
+## ✦ GitHub Analytics
+
+<!-- Compact Overview (as requested) -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=komenggacor&show_icons=true&count_private=true&theme=gruvbox_light" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komenggacor&layout=compact&theme=gruvbox_light" height="180" />
 </p>
 
+<!-- Detailed Analytics -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=komenggacor&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=gruvbox_light" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=komenggacor&hide_border=true&theme=gruvbox_light" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komenggacor&layout=compact&langs_count=8&hide_border=true&theme=gruvbox_light" height="170" />
+</p>
+
 ---
 
-### ✨ Daily Quote
-<!-- QUOTE_START -->
+## ✦ Personal Principle
 
-> Build business with logic, grow it with vision.
-
-<!-- QUOTE_END -->
+> **Build with logic. Scale with vision. Decide with data.**
 
 ---
 
-### 📫 Connect With Me
+## ✦ Let’s Connect
+
 <p align="center">
   <a href="https://instagram.com/ahmadgustyaa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40ahmadgustyaa-16a34a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%40ahmadgustyaa-16a34a?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=komenggacor&style=flat-square&color=16a34a" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=komenggacor&style=flat-square&color=16a34a" />
 </p>
 
 <p align="center">
-  <i>“Building Business, Understanding Finance.”</i>
+  <i>Building Business. Understanding Finance. Leveraging Technology.</i>
 </p>
